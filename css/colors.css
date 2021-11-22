@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.box-container {
+    align-items: center;
+    display:  flex;
+    justify-content: center;
+    height: 75vh;
+    margin: 0 auto;
+    width: 75%;
+
+}
+
+.box {
+    align-items: center;
+    display:  flex;
+    justify-content: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 75%;
+    border-radius: 10px;
+    width: 75%;
+}
